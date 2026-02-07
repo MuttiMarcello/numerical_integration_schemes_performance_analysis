@@ -1,0 +1,7 @@
+- 'RK2-4_stability_regions_contours.png' - Runge-Kutta 2 and 4 stability region contours, the stability region is the subtended area
+- 'BI-theta_stability_regions_contours.png' - BI-theta stability region contours, the stability region is the subtended area for theta>0.5, and the external area for theta<0.5
+- 'RK1_accuracy_region.png' - Runge-Kutta 1,2 and 4 accuracy regions for infinity-norm tolerance 1e-3 through 1e-6
+- 'RK2_accuracy_region.png' 
+- 'RK4_accuracy_region.png'
+- 'ode113_AB3_performance_benchmarking.png' - AB3 performance comparison with MATLAB ode113
+- 'ode113_AM3_ABM3_BDF3_performance_benchmarking.png' - AM3, ABM3, BDF3 performance comparison with MATLAB ode113
